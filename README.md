@@ -25,7 +25,7 @@
   
 ![Protools](https://img.shields.io/badge/Protools-7ACB10.svg?logo=Protools&logoColor=white&style=for-the-badge)
 ![AdobePremierePro](https://img.shields.io/badge/AdobePremierePro-9999FF.svg?logo=AdobePremierePro&logoColor=white&style=for-the-badge)
-![AdobeAfterEffects](https://img.shields.io/badge/AdobeAfterEffects-9999FF.svg?logo=AdobeAfterEffects&logoColor=white&style=for-the-badge)
+![AdobeAfterEffects](https://img.shields.io/badge/AdobeAfterEffects-4ACBD6.svg?logo=AdobeAfterEffects&logoColor=white&style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
