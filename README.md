@@ -12,13 +12,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=Figma&logoColor=white&style=for-the-badge)
-![AdobeXD](https://img.shields.io/badge/AdobeXD-FF61F6.svg?logo=AdobeXD&logoColor=white&style=for-the-badge)
-![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=for-the-badge)
-![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?logo=AdobeIllustrator&logoColor=white&style=for-the-badge)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+    
+![AdobeXD](https://img.shields.io/badge/AdobeXD-FF61F6.svg?logo=AdobeXD&logoColor=white&style=for-the-badge)
+![AdobePhotoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF.svg?logo=AdobePhotoshop&logoColor=white&style=for-the-badge)
+![AdobeIllustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00.svg?logo=AdobeIllustrator&logoColor=white&style=for-the-badge)
+  
 ![Protools](https://img.shields.io/badge/Protools-7ACB10.svg?logo=Protools&logoColor=white&style=for-the-badge)
 ![AdobePremierePro](https://img.shields.io/badge/AdobePremierePro-9999FF.svg?logo=AdobePremierePro&logoColor=white&style=for-the-badge)
 ![AdobeAfterEffects](https://img.shields.io/badge/AdobeAfterEffects-9999FF.svg?logo=AdobeAfterEffects&logoColor=white&style=for-the-badge)
