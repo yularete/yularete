@@ -1,7 +1,9 @@
 <div align="center">
   
- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&fontAlignY=40&section=header&text=Have%20a%20Nice%20Day🍀&fontSize=90&desc=I'm%20Yula👋🏻&descAlign=50&descAlignY=60&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&fontAlignY=40&section=header&text=Have%20a%20Nice%20Day🍀&fontSize=90&desc=I'm%20Yula👋🏻&descAlign=50&descAlignY=60&animation=twinkling)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yularete)](https://solved.ac/yularete/)   
+<br><br><br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
@@ -31,4 +33,4 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white&style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white&style=for-the-badge)
 
-  </div>
+</div>
