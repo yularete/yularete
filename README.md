@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&fontAlignY=40&section=header&text=Have%20a%20Nice%20Day🍀&fontSize=90&desc=I'm%20Yula👋🏻&descAlign=50&descAlignY=60&animation=twinkling)
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yularete)](https://solved.ac/yularete/)   
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yularete)](https://solved.ac/yularete/)-->   
 <br><br><br>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
